@@ -1,4 +1,10 @@
-# Reporte de incidencia
+---
+name: "Reporte de incidencia"
+about: "Plantilla para registrar defectos encontrados en GHOST"
+title: "[BUG] "
+labels: ["bug"]
+assignees: ""
+---
 
 **Título:** _breve y descriptivo_  
 **Producto/Versión:** Ghost 5.x  
